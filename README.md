@@ -1,4 +1,4 @@
-# Mario Käpakodu
+# Sinunimi Käpakodu
 
 ## Kirjeldus
 
